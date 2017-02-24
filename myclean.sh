@@ -8,3 +8,4 @@ rm *.snm
 rm *.blg
 rm *.bbl
 rm *.run.xml
+rm *blx.bib
